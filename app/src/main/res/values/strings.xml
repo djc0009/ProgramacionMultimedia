@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EjercicioBotones</string>
+    <string name="button" >Continuar</string>
+    <string name="button2" >Cancelar</string>
 </resources>
